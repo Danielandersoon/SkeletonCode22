@@ -1,0 +1,11 @@
+\\dsfc-fp-01\UserData\019861\Documents\Documents\Breakthrough\Breakthrough\bin\Debug\netcoreapp3.1\Breakthrough.exe
+\\dsfc-fp-01\UserData\019861\Documents\Documents\Breakthrough\Breakthrough\bin\Debug\netcoreapp3.1\Breakthrough.deps.json
+\\dsfc-fp-01\UserData\019861\Documents\Documents\Breakthrough\Breakthrough\bin\Debug\netcoreapp3.1\Breakthrough.runtimeconfig.json
+\\dsfc-fp-01\UserData\019861\Documents\Documents\Breakthrough\Breakthrough\bin\Debug\netcoreapp3.1\Breakthrough.runtimeconfig.dev.json
+\\dsfc-fp-01\UserData\019861\Documents\Documents\Breakthrough\Breakthrough\bin\Debug\netcoreapp3.1\Breakthrough.dll
+\\dsfc-fp-01\UserData\019861\Documents\Documents\Breakthrough\Breakthrough\bin\Debug\netcoreapp3.1\Breakthrough.pdb
+\\dsfc-fp-01\UserData\019861\Documents\Documents\Breakthrough\Breakthrough\obj\Debug\netcoreapp3.1\Breakthrough.csprojAssemblyReference.cache
+\\dsfc-fp-01\UserData\019861\Documents\Documents\Breakthrough\Breakthrough\obj\Debug\netcoreapp3.1\Breakthrough.AssemblyInfoInputs.cache
+\\dsfc-fp-01\UserData\019861\Documents\Documents\Breakthrough\Breakthrough\obj\Debug\netcoreapp3.1\Breakthrough.AssemblyInfo.cs
+\\dsfc-fp-01\UserData\019861\Documents\Documents\Breakthrough\Breakthrough\obj\Debug\netcoreapp3.1\Breakthrough.dll
+\\dsfc-fp-01\UserData\019861\Documents\Documents\Breakthrough\Breakthrough\obj\Debug\netcoreapp3.1\Breakthrough.pdb
